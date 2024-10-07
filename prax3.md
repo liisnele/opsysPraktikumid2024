@@ -1,5 +1,5 @@
 ### Praktikum 3
-Kolmandas praktikumis seadistasin Linuxi LVM-partitsiooning ning paigaldasin nendele Ubuntu.
+Kolmandas praktikumis seadistasin Linuxi LVM-partitsioonid ning paigaldasin nendele Ubuntu.
 
 ![image](https://github.com/user-attachments/assets/03b101fa-5d21-4516-9aaa-5d1358bb4a35)
 ![image](https://github.com/user-attachments/assets/34628d3d-862f-48dc-a523-3785815dae4a)
