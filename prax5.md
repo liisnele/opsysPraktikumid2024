@@ -1,4 +1,4 @@
-### Praksikum 5 - failiõigused Linuxis
+### Praktikum 5 - failiõigused Linuxis
 
 1. a) kaustal execute, failil read õigused
    b) kaustal execute ja write, failil midagi
