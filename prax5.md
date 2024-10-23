@@ -19,15 +19,14 @@ Setuid õigust on vaja, et kasutaja, kellel pole õigust faili lugeda, saaks ikk
 
 8. Faile said kustutada opetaja, kasutaja1 (peeter) ja juurkasutaja.
    
-9.
-'# file: hinded.txt
-'# owner: opetaja
-'# group: opetaja
-'user::rw-
-'group::---
-'group:direktor:rw-
-'mask::rw-
-'other::---
+9.# file: hinded.txt\
+'# owner: opetaja\
+'# group: opetaja\
+'user::rw-\
+'group::---\
+'group:direktor:rw-\
+'mask::rw-\
+'other::---\
 
 10. Juurkasutaja või piisavate süsteemi õigustega kasutaja saab eemaldada faililt +i-parameetri ja seejärel sisu muuta.
 Faililt tuleb esiteks eemaldada +i-parameeter käsuga: sudo chattr -i testfail-2. Seejärel kustutada fail: rm testfail-2.
