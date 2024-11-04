@@ -9,3 +9,12 @@ Võrreldes MBRiga, mis hoiab andmeid ühe koopiana ühes kohas, GPT hoiab kettal
 GPT kontrollib pideval, kas hoiustatud andmed on olemas ja ühes tükis, et siis vastasel juhul neid kiirelt parandma hakata.
 
 3. https://kodu.ut.ee/~vohmanel/opsys/hdd.png
+
+4. ![image](https://github.com/user-attachments/assets/08b3c484-5518-4bd0-891b-f47029e5468c)
+
+
+5. Mida mõjutasid mount-käsu parameetrid -o ro ja -t auto?
+   
+6. Leidke mount-käsu väljundist üles, mis väärtusega asendas Ubuntu auto-parameetri.
+
+7. 
