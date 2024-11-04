@@ -14,7 +14,8 @@ GPT kontrollib pideval, kas hoiustatud andmed on olemas ja ühes tükis, et siis
 
 
 5. Mida mõjutasid mount-käsu parameetrid -o ro ja -t auto?
-   
-6. Leidke mount-käsu väljundist üles, mis väärtusega asendas Ubuntu auto-parameetri.
+   -o ro käsib ühendada ketta nii, et seda saab ainult lugeda ning -t auto käsib aga mount-käsul automaatselt tuvastada, millist failisüsteemi ketas kasutab
+6. Polnud hetkel USB andmekandjat käepärast.
 
-7. 
+7. ![image](https://github.com/user-attachments/assets/776b3600-ed94-4929-bd43-e74fd25112df)
+
