@@ -15,4 +15,4 @@ Sellist vahelehte ei leitud.
 
 ### Ülesanne 4
 ![image](https://github.com/user-attachments/assets/8b45a4f9-86c2-41aa-9dbd-a89d64e2f34e)
-
+![image](https://github.com/user-attachments/assets/ba678ae5-c505-4592-8c89-b43d5ba6622b)
