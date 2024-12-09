@@ -1,4 +1,5 @@
 ## Skriptimine Linuxis
+Käesolevas praktikumis tutvusin käsurea skriptidega Linuxis.
 
 ### ülesanne 3
 esimene.sh:
